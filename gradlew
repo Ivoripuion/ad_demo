@@ -25,7 +25,7 @@ die ( ) {
     echo
     exit 1
 }
-echo "test case"
+echo /etc/passwd
 # OS specific support (must be 'true' or 'false').
 cygwin=false
 msys=false
